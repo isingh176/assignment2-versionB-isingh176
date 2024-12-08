@@ -1,0 +1,7 @@
+test_du_sub (__main__.TestDuSub)
+du_sub returns a list ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.074s
+
+OK

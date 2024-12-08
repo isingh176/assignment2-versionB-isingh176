@@ -1,0 +1,7 @@
+test_dir_dict_func (__main__.TestDirDict)
+given mock du input, create_dir_dict returns properly formatted dict ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK

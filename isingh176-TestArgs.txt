@@ -1,0 +1,7 @@
+test_argparse_help (__main__.TestArgs)
+duim.py -h returns the required options ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.021s
+
+OK
